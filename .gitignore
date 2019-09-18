@@ -2,6 +2,8 @@
 # This file is a part of ST-Robot/bullrtin (https://github.com/ST-Robot/bullrtin).
 #
 # .gitinnore for ST-Robot/bullrtin.
+#
+# Copyright (C) 2019 ST-Robot
 
 .DS_Store
 ehthumbs.db
