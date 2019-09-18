@@ -1,0 +1,9 @@
+
+# This file is a part of ST-Robot/bullrtin (https://github.com/ST-Robot/bullrtin).
+#
+# .gitinnore for ST-Robot/bullrtin.
+
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
